@@ -1,0 +1,11 @@
+.container-btn {
+    margin-top: 50px;
+}
+
+.btn{
+    padding: 10px;
+    color: rgb(rgb(249, 195, 49), green, blue);
+    text-decoration: none;
+    margin: 5px;
+    box-shadow: 5px 5px ;
+}
